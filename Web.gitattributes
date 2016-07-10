@@ -23,6 +23,7 @@
 *.inc    text
 *.ini    text
 *.js     text
+*.jsx    text
 *.json   text
 *.less   text
 *.php    text
@@ -151,7 +152,6 @@ Procfile       text
 *.mpg  binary
 *.swc  binary
 *.swf  binary
-*.ts   binary
 *.webm binary
 
 ## ARCHIVES
